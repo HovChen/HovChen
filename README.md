@@ -6,8 +6,14 @@
   </div>
 </div>
 
-![](https://raw.githubusercontent.com/HovChen/HovChen/output/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/HovChen/HovChen/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/HovChen/HovChen/output/github-contribution-grid-snake.svg)
 
+————————————————
+
+                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        
+原文链接：https://blog.csdn.net/m0_63230155/article/details/136700206
 
 <!--
 **HovChen/HovChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
