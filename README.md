@@ -18,8 +18,8 @@
   <!-- GitHub统计卡片 -->
   ### 📊 GitHub Stats
   <div align="center">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=HovChen&show_icons=true&theme=default" alt="GitHub Stats" />
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HovChen&layout=compact&theme=default" alt="Top Languages" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=HovChen&show_icons=true&theme=transparent" alt="GitHub Stats" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HovChen&layout=compact&theme=transparent" alt="Top Languages" />
   </div>
 
   <!-- 贡献贪吃蛇图 -->
@@ -35,5 +35,4 @@
   <!-- 邮箱链接 -->
   ### 📫 Connect with Me
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chenhw318@163.com)
-
 </div>
