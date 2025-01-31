@@ -7,6 +7,8 @@
   <!-- 个人简介 -->
   ### Hi there 👋
   I'm HovChen, a researcher and developer passionate about **Medical Imaging Processing** and **Artificial Intelligence**. My expertise lies in building deep learning models with **PyTorch**. I'm also skilled in **Web Development** and enjoy creating seamless user experiences.
+  
+  🌐 [Personal Website](https://hovchen.github.io/)
 
   <!-- 技术栈 -->
   ### 🛠️ Tech Stack
