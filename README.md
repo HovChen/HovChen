@@ -6,7 +6,7 @@
 
   <!-- 个人简介 -->
   ### Hi there 👋
-  I'm HovChen, a researcher and developer passionate about **Medical Imaging Processing** and **Artificial Intelligence**. My expertise lies in building deep learning models with **PyTorch**. I'm also skilled in **Web Development** and enjoy creating seamless user experiences.
+  I'm Huangwei Chen, a researcher passionate about **Medical AI** and **Multimodal Large Language Model**.
   
   🌐 [Personal Website](https://hovchen.github.io/)
 
@@ -14,7 +14,6 @@
   ### 🛠️ Tech Stack
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
   <!-- GitHub统计卡片 -->
