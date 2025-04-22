@@ -1,11 +1,10 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Happy+Coding!&center=true&size=27" />
+    <img src="https://readme-typing-svg.demolab.com?font=Monaco&pause=1000&color=19D7E6&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Huangwei+Chen" alt="Typing SVG" />
   </div>
 
   <!-- 个人简介 -->
-  ### Hi there 👋
   I'm Huangwei Chen, an undergraduate passionate about **Medical AI** and **Multimodal Learning**.
   
   🌐 [Personal Website](https://hovchen.github.io/)
