@@ -7,7 +7,7 @@
   <!-- 个人简介 -->
   I'm Huangwei Chen (陈黄未), an undergraduate passionate about **Medical AI** and **Multimodal Learning**.
   
-  🌐 [Personal Website](https://hovchen.github.io/)
+  🌐 [Personal Website](https://huangwei-chen.github.io/)
 
   <!-- 技术栈 -->
   ### 🛠️ Tech Stack
