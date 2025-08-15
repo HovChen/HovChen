@@ -34,5 +34,5 @@
 
   <!-- 邮箱链接 -->
   ### 📫 Connect with Me
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chenhw318@163.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huangwei_chen@163.com)
 </div>
