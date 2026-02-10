@@ -8,11 +8,6 @@
   🌐 [Homepage](https://huangwei-chen.github.io/)
 
   ### 📊 GitHub Stats
-  <div align="center">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=HovChen&show_icons=true&theme=transparent" alt="GitHub Stats" />
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HovChen&layout=compact&theme=transparent" alt="Top Languages" />
-  </div>
-
   <picture>
     <source srcset="https://raw.githubusercontent.com/HovChen/HovChen/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/HovChen/HovChen/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
