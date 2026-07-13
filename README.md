@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Monaco&pause=1000&color=19D7E6&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Huangwei+Chen" alt="Typing SVG" />
   </div>
 
-  I'm Huangwei Chen (陈黄未), an undergraduate passionate about **MedAI**, **MLLMs** and **AI Agent**.
+  I'm Huangwei Chen (陈黄未). My research interests lie in **MedAI**, **MLLMs** and **AI Agent**.
   
   🌐 [Homepage](https://huangwei-chen.github.io/)
 
